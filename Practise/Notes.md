@@ -9,3 +9,17 @@ a). Pandas
 b). Numpy
 c). Matplotlib
 d). Random.seed(0)
+
+Keywords Uswd And Their Functions :
+
+random.seed(0)
+np.random.normal(loc=5, scale=1, size=10)
+np.vstack((dogs_whisker_length, dogs_ear_flappiness_index)).T
+np.hstack
+train_test_split
+plt.scatter
+plt.xlabel
+plt.ylabel
+plt.title
+plt.lagend
+plt.show()
